@@ -8,10 +8,9 @@ Welcome to the repository for my parallax-style culinary resume. This project sh
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -33,22 +32,6 @@ This project presents my culinary resume with a parallax scrolling effect, provi
 - **GSAP (GreenSock Animation Platform)**
 - **ScrollMagic**
 
-## Setup
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/culinary-resume.git
-    ```
-2. **Navigate to the project directory:**
-    ```bash
-    cd culinary-resume
-    ```
-3. **Open `Index.html` in your preferred web browser:**
-    ```bash
-    open Index.html
-    ```
 
 ## Usage
 
